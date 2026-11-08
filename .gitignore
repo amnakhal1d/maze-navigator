@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+models/*.pkl
+reports/
+data/*.csv
+quik_car.csv
+quikr_car.csv
+.DS_Store
